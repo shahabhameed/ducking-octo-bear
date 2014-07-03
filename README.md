@@ -7,4 +7,5 @@ Test Repository
 
 <ul>
 <li> First Commit to Branch, then merged with Master </li>
+<li> Second Commit </li>
 </ul>
