@@ -2,3 +2,5 @@ Wow
 Wow wow
 wowow
 
+Fix Bug #2
+
