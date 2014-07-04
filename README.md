@@ -14,7 +14,7 @@ Test Repository
 
 - [ ] Figure out wormholes
   - [x] Call @shahabhameed
-  - [x] Research ([docs](http://en.wikipedia.org/wiki/Wormhole#Time_travel))
+  - [] Research ([docs](http://en.wikipedia.org/wiki/Wormhole#Time_travel))
   - [x] Build prototype #15
   - [ ] Test run #43 @world-domination/time-travel
 - [ ] ...?
